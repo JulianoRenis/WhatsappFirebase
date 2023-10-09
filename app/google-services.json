@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780550832833",
+    "project_id": "whatsapp-93b84",
+    "storage_bucket": "whatsapp-93b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780550832833:android:75f32b26760f1d87950a40",
+        "android_client_info": {
+          "package_name": "br.com.sistemadereparo.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApVomWOJcYZYRpFZ1c0Ymgr4i_1lnDd9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
